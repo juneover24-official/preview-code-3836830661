@@ -1,7 +1,7 @@
 {
   "qq_number": "3836830661",
   "group_number": "1041275432",
-  "updated_at": "2026-07-21T21:20:09+00:00",
+  "updated_at": "2026-07-21T21:25:25+00:00",
   "skins": [
     {
       "name": "苏婳贴纸底包",
@@ -50,6 +50,12 @@
       "file": "彩烟草老团子.bdi",
       "thumb": "彩烟草老团子.bdi_py_26_light_thumb.png",
       "full": "彩烟草老团子.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "托马鸽子",
+      "file": "rh修改托马鸽子.bdi",
+      "thumb": "rh修改托马鸽子.bdi_py_26_light_thumb.png",
+      "full": "rh修改托马鸽子.bdi_py_26_light_thumb.png"
     }
   ]
 }

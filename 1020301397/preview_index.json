@@ -1,7 +1,7 @@
 {
   "qq_number": "3836830661",
   "group_number": "1020301397",
-  "updated_at": "2026-08-03T08:41:57+00:00",
+  "updated_at": "2026-08-03T08:42:23+00:00",
   "skins": [
     {
       "name": "老年人都喜欢用的猫咪皮肤",
@@ -14,6 +14,12 @@
       "file": "融合老年人都喜欢用的猫咪皮肤.bdi",
       "thumb": "融合老年人都喜欢用的猫咪皮肤.bdi_py_26_light_thumb.png",
       "full": "融合老年人都喜欢用的猫咪皮肤.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "老年人都喜欢用的猫咪皮肤",
+      "file": "彩老年人都喜欢用的猫咪皮肤.bdi",
+      "thumb": "彩老年人都喜欢用的猫咪皮肤.bdi_py_26_light_thumb.png",
+      "full": "彩老年人都喜欢用的猫咪皮肤.bdi_py_26_light_thumb.png"
     }
   ]
 }

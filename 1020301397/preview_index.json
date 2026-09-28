@@ -1,7 +1,7 @@
 {
   "qq_number": "3836830661",
   "group_number": "1020301397",
-  "updated_at": "2026-08-03T09:04:49+00:00",
+  "updated_at": "2026-09-28T19:08:25+00:00",
   "skins": [
     {
       "name": "老年人都喜欢用的猫咪皮肤",
@@ -26,6 +26,13 @@
       "file": "融老年人都喜欢用的猫咪皮肤.bdi",
       "thumb": "融老年人都喜欢用的猫咪皮肤.bdi_py_26_light_thumb.png",
       "full": "融老年人都喜欢用的猫咪皮肤.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "喜欢草莓还是喜欢熊",
+      "file": "盲打版本熊.bdi",
+      "thumb": "盲打版本熊.bdi_py_26_light_thumb.png",
+      "full": "盲打版本熊.bdi_py_26_light_thumb.png",
+      "file_id": "8183cd9568ff7ff3e20b30267d309ce1"
     }
   ]
 }
